@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "tripId": 1001,
+      "createDate": "2026-04-17T06:05:49.573Z",
+      "updateDate": "2026-04-17T06:05:49.573Z",
+      "tripNumber": "TRIP-456789",
+      "deviceId": 2002,
+      "tripStatus": "Registered",
+      "accountId": "550e8400-e29b-41d4-a716-446655440000",
+      "programId": "123e4567-e89b-12d3-a456-426614174000",
+      "tripEntityId": "f3e1bfa9-681e-4d1f-8dc4-13f8c0d05fef",
+      "isRequired": true
+    }
+  ],
+  "totalRecords": 0,
+  "page": 0,
+  "pageSize": 0
+}

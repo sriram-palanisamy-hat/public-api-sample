@@ -1,0 +1,30 @@
+[
+  {
+    "event": "Shipped from Harvest",
+    "remainingShelfLifeDays": 15.49,
+    "remainingShelfLifePercentage": 99,
+    "maxShelfLifeDays": 15.62,
+    "color": "Green"
+  },
+  {
+    "event": "Received at Processing Dock",
+    "remainingShelfLifeDays": 9.2,
+    "remainingShelfLifePercentage": 59,
+    "maxShelfLifeDays": 15.62,
+    "color": "Orange"
+  },
+  {
+    "event": "Shipped from Processing Dock",
+    "remainingShelfLifeDays": 6.7,
+    "remainingShelfLifePercentage": 43,
+    "maxShelfLifeDays": 15.62,
+    "color": "Orange"
+  },
+  {
+    "event": "Received at Store",
+    "remainingShelfLifeDays": 2.0,
+    "remainingShelfLifePercentage": 12,
+    "maxShelfLifeDays": 15.62,
+    "color": "Red"
+  }
+]

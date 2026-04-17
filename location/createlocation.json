@@ -1,0 +1,42 @@
+{
+  "locationId": "0f0a7268-f6d2-4381-b1af-6b5d1a20aaea",
+  "locationName": "Main Warehouse",
+  "locationType": "Receiver",
+  "accountId": "714b22d1-38e4-4966-9e13-e5e90a2d57da",
+  "accountName": "AccountName",
+  "duns": null,
+  "address": "810 N Henry Ln, Liberty Lake, WA",
+  "stateIsoCode": "WA",
+  "countryIsoCode": "US",
+  "geoJson": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            [
+              -117.1322099,
+              47.6605719
+            ]
+          ]
+        },
+        "properties": {
+          "additionalProperties": {
+            "address": "810 N Henry Ln, Liberty Lake, WA",
+            "countryIsoCode": "US",
+            "mapType": "Circle",
+            "zoom": "15",
+            "stateIsoCode": "WA",
+            "radius": "0"
+          }
+        }
+      }
+    ]
+  },
+  "createdAt": "2026-03-04T18:55:53.607207",
+  "createdBy": "user@domain.com",
+  "modifiedAt": "2026-03-04T18:55:53.607207",
+  "modifiedBy": "user@domain.com"
+}

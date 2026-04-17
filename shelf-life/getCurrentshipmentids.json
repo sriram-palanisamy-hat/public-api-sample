@@ -1,0 +1,18 @@
+[
+  {
+    "shipmentId": "a2634702-9391-47b3-b3c5-3db13a16e83d",
+    "event": "Received at DC",
+    "remainingShelfLifeDays": 14.80,
+    "remainingShelfLifePercentage": 95,
+    "maxShelfLifeDays": 15.62,
+    "color": "Green"
+  },
+  {
+    "shipmentId": "2c5821af-d8f7-4509-a0ed-76673a47d0cd",
+    "event": "Received at Store",
+    "remainingShelfLifeDays": 3.5,
+    "remainingShelfLifePercentage": 22,
+    "maxShelfLifeDays": 15.62,
+    "color": "Red"
+  }
+]

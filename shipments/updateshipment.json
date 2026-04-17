@@ -1,0 +1,68 @@
+{
+  "shipmentId": "c17a1c34-fe69-4065-bca6-4996d2adb477",
+  "shipmentName": "Update Shipment API",
+  "accountId": "188ca647-d9bc-4412-939f-4f0998b5ccc5",
+  "accountName": "Receiver",
+  "shipmentStatus": "Ready",
+  "status": null,
+  "productId": "d494902f-cb17-4e23-aa41-9fab39db76a5",
+  "productName": "Bananas",
+  "purchaseOrder": "PO-12345",
+  "shipperLocationId": "7a35b1fa-c149-4b42-914f-88f561e05249",
+  "shipperName": "Return Shipper (SV)",
+  "receiverLocationId": "672e2ac7-0e81-48a9-9a38-a0cd3a69bd3b",
+  "receiverName": "Third Warehouse",
+  "carrierId": "f7b3bd6f-0bb5-478b-8de9-3baeb570909f",
+  "carrierName": "Carrier Name",
+  "expectedDepartureDate": {
+    "datetime": "2025-10-24T20:34:58.24",
+    "timezone": "Asia/Beirut"
+  },
+  "expectedArrivalDate": {
+    "datetime": "2025-10-24T20:34:58.24",
+    "timezone": "Asia/Beirut"
+  },
+  "actualDepartureDate": null,
+  "actualArrivalDate": null,
+  "waypoints": [],
+  "ruleSets": [
+    {
+      "rulesetId": "a5e1bdd3-4a75-4e26-93e4-81dcc6b80462",
+      "rulesetName": "Shipment Duration Ruleset"
+    }
+  ],
+  "trips": [],
+  "bookingNumber": null,
+  "containerNumber": null,
+  "vesselScac": null,
+  "billOfLading": null,
+  "currentLocation": null,
+  "lastReadingTime": null,
+  "transportWeightUnits": [
+    {
+      "units": "kg",
+      "value": 123.5
+    }
+  ],
+  "alarmStatus": "Normal",
+  "lastKnownAddress": null,
+  "firstReading": null,
+  "portOfDeparture": null,
+  "dateOfDeparture": null,
+  "portOfArrival": null,
+  "batteryPercentage": null,
+  "modelNumber": null,
+  "sealine": null,
+  "shareList": null,
+  "alarms": [],
+  "createdAt": "2025-10-24T20:40:07.796198",
+  "createdBy": "tespe+read@deltatrak.com",
+  "modifiedAt": "2025-12-12T17:49:41.121964",
+  "modifiedBy": "tespe+read2@deltatrak.com",
+  "programName": null,
+  "customAttributes": {
+    "reportId": "",
+    "flashTrakUrl": ""
+  },
+  "awb": null
+}

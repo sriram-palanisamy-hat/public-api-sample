@@ -1,0 +1,236 @@
+{
+  "data": [
+    {
+      "shipmentId": "fdaa48e8-315d-46bb-9556-a82c653e60fd",
+      "shipmentName": "DataTest3",
+      "accountId": "8250da60-d460-4620-a59a-660cebb2fcaf",
+      "accountName": "Shipper to Receiver to SharedQA1-Shared QA1-Shipper",
+      "shipmentStatus": "In Transit",
+      "status": null,
+      "productId": "91eac50f-5cd3-4c96-a252-599cd5cfce0d",
+      "productName": "SharedQa1Product",
+      "purchaseOrder": "Purchase Order",
+      "shipperLocationId": "ff7e00c7-17a7-4050-b845-b00aed4d3251",
+      "shipperName": "NewShipper",
+      "receiverLocationId": "51538a07-07c5-43dd-90fd-05e6083be04b",
+      "receiverName": "REC REC",
+      "carrierId": "fc933fa7-2e2c-4985-9525-73b401c2c82a",
+      "carrierName": "NewCarrier",
+      "expectedDepartureDate": {
+        "datetime": "2025-12-01T00:00:00",
+        "timezone": "Africa/Abidjan"
+      },
+      "expectedArrivalDate": {
+        "datetime": "2025-12-31T00:00:00",
+        "timezone": "Africa/Abidjan"
+      },
+      "actualDepartureDate": {
+        "datetime": "2025-12-11T00:05:00",
+        "timezone": null
+      },
+      "actualArrivalDate": null,
+      "waypoints": [
+        {
+          "type": "waypoint",
+          "location": {
+            "uid": "Office Waypoint",
+            "templateId": "065cff01-07b9-4e5b-8489-1df0fc70c3a9",
+            "entityId": "f237f33a-5401-44f1-8284-30806120475d",
+            "templateName": "Waypoint",
+            "dataType": "Entity"
+          },
+          "templateId": "065cff01-07b9-4e5b-8489-1df0fc70c3a9",
+          "modeOfTransport": "land",
+          "actualArrivalDate": {
+            "datetime": "2025-12-11T00:05:00Z",
+            "timezone": null
+          },
+          "actualDepartureDate": null,
+          "expectedArrivalDate": null,
+          "expectedDepartureDate": null,
+          "Id": null,
+          "licenseDuration": null,
+          "uid": "Office Waypoint"
+        },
+        {
+          "type": "waypoint",
+          "location": {
+            "uid": "POSTFALLSWAYPOINT",
+            "templateId": "065cff01-07b9-4e5b-8489-1df0fc70c3a9",
+            "entityId": "50ecc5e2-3fd8-4c1d-8fd8-f0fb41c5bc46",
+            "templateName": "Waypoint",
+            "dataType": "Entity"
+          },
+          "templateId": "065cff01-07b9-4e5b-8489-1df0fc70c3a9",
+          "modeOfTransport": "land",
+          "actualArrivalDate": {
+            "datetime": "2025-12-11T00:05:00Z",
+            "timezone": null
+          },
+          "actualDepartureDate": null,
+          "expectedArrivalDate": null,
+          "expectedDepartureDate": null,
+          "Id": null,
+          "licenseDuration": null,
+          "uid": "POSTFALLSWAYPOINT"
+        }
+      ],
+      "ruleSets": [
+        {
+          "rulesetId": "4365151b-3961-4c7c-9649-d984abebca56",
+          "rulesetName": "Product Rule"
+        }
+      ],
+      "trips": [
+        {
+          "tripId": "30657457-ebd5-49d9-b94d-708e1e3622ef",
+          "deviceSerial": "DataTest3",
+          "tripNumber": "DataTest3",
+          "accountName": "Shipper to Receiver to SharedQA1-Shared QA1-Shipper"
+        }
+      ],
+      "bookingNumber": null,
+      "containerNumber": null,
+      "vesselScac": null,
+      "billOfLading": null,
+      "currentLocation": {
+        "latitude": 47.7158259,
+        "longitude": -116.94290096
+      },
+      "lastReadingTime": "2025-12-12T23:55:00",
+      "transportWeightUnits": [
+        {
+          "units": "kg",
+          "value": 0
+        }
+      ],
+      "alarmStatus": "Critical",
+      "lastKnownAddress": null,
+      "firstReading": null,
+      "portOfDeparture": null,
+      "dateOfDeparture": null,
+      "portOfArrival": null,
+      "batteryPercentage": null,
+      "modelNumber": null,
+      "sealine": null,
+      "shareList": null,
+      "alarms": [
+        {
+          "severity": "High Critical",
+          "sensor": null,
+          "value": null,
+          "threshold": null,
+          "timestamp": "2025-12-11T01:10:00Z",
+          "message": "Shipment DataTest3: High Critical  is triggered\n\nas Temperature 1\n\n\n\nhas been above 1.0 °C\n\n\n\nfor more than 1 minutes.\n\nCurrent reading is 111.3 °C\n"
+        },
+        {
+          "severity": "High Critical",
+          "sensor": null,
+          "value": null,
+          "threshold": null,
+          "timestamp": "2025-12-11T00:20:00Z",
+          "message": "Shipment DataTest3: High Critical  is triggered\n\nas Humidity 1\n\n\n\nhas been above 2.0 \n\n\n\nfor more than 1 minutes.\n\nCurrent reading is 82.2 \n"
+        },
+        {
+          "severity": "High Critical",
+          "sensor": null,
+          "value": null,
+          "threshold": null,
+          "timestamp": "2025-12-11T00:20:00Z",
+          "message": "Shipment DataTest3: High Critical  is triggered\n\nas Light 1\n\n\n\nhas been above 200.0 \n\n\n\nfor more than 1 minutes.\n\nCurrent reading is 4031.0 \n"
+        },
+        {
+          "severity": "Low Critical",
+          "sensor": null,
+          "value": null,
+          "threshold": null,
+          "timestamp": "2025-12-11T00:10:00Z",
+          "message": "Shipment DataTest3: Low Critical  is triggered\n\nas Humidity 1\n\n\nhas been below 1.0 \n\n\nfor more than 1 minutes.\n\nCurrent reading is 0.3 \n"
+        },
+        {
+          "severity": "Low Critical",
+          "sensor": null,
+          "value": null,
+          "threshold": null,
+          "timestamp": "2025-12-11T00:10:00Z",
+          "message": "Shipment DataTest3: Low Critical  is triggered\n\nas Light 1\n\n\nhas been below 100.0 \n\n\nfor more than 1 minutes.\n\nCurrent reading is 1.0 \n"
+        },
+        {
+          "severity": "Low Critical",
+          "sensor": null,
+          "value": null,
+          "threshold": null,
+          "timestamp": "2025-12-11T00:05:00Z",
+          "message": "Shipment DataTest3: Low Critical  is triggered\n\nas Temperature 1\n\n\n\nfor more than 1 minutes.\n\nCurrent reading is -116.8 °C\n"
+        },
+        {
+          "severity": "High Critical",
+          "sensor": null,
+          "value": null,
+          "threshold": null,
+          "timestamp": "2025-12-11T00:05:00Z",
+          "message": "Shipment DataTest3: High Critical  is triggered\n\nas Temperature 2\n\n\n\nhas been above 1.0 °C\n\n\n\nfor more than 1 minutes.\n\nCurrent reading is 116.0 °C\n"
+        },
+        {
+          "severity": "Info",
+          "sensor": null,
+          "value": null,
+          "threshold": null,
+          "timestamp": "2025-12-11T00:05:00Z",
+          "message": "Shipment DataTest3 has departed from NewShipper"
+        },
+        {
+          "severity": "Info",
+          "sensor": null,
+          "value": null,
+          "threshold": null,
+          "timestamp": "2025-12-11T00:05:00Z",
+          "message": "Shipment DataTest3 has reported Entry to the location Office Waypoint geofence"
+        },
+        {
+          "severity": "Info",
+          "sensor": null,
+          "value": null,
+          "threshold": null,
+          "timestamp": "2025-12-11T00:05:00Z",
+          "message": "Shipment DataTest3 has reported Entry to the location POSTFALLSWAYPOINT geofence"
+        },
+        {
+          "severity": "High Critical",
+          "sensor": null,
+          "value": null,
+          "threshold": null,
+          "timestamp": "2025-12-11T00:05:00Z",
+          "message": "Shipment DataTest3: High Critical  is triggered\n\nas Shock 1\n\n\n\nhas been above 4.0 \n\n\n\nfor more than 1 minutes.\n\nCurrent reading is 9.0 \n"
+        },
+        {
+          "severity": "Info",
+          "sensor": null,
+          "value": null,
+          "threshold": null,
+          "timestamp": "2025-12-11T00:00:00Z",
+          "message": "Device with the Trip #DataTest3 has sent its first data and is now activated"
+        }
+      ],
+      "createdAt": "2025-12-11T21:32:06.50957",
+      "createdBy": "sgadamsetty+padmin@deltatrak.com",
+      "modifiedAt": "2025-12-11T21:32:30.567143",
+      "modifiedBy": "sgadamsetty+padmin@deltatrak.com",
+      "programName": "Shipper to Receiver to SharedQA1",
+      "customAttributes": {
+        "waypoint": {
+          "uid": "POSTFALLSWAYPOINT",
+          "templateId": "065cff01-07b9-4e5b-8489-1df0fc70c3a9",
+          "entityId": "50ecc5e2-3fd8-4c1d-8fd8-f0fb41c5bc46",
+          "templateName": "Waypoint"
+        },
+        "reportId": "",
+        "flashTrakUrl": ""
+      },
+      "awb": null
+    }
+  ],
+  "totalRecords": 73,
+  "page": 1,
+  "pageSize": 10
+}

@@ -1,0 +1,30 @@
+{
+  "a2634702-9391-47b3-b3c5-3db13a16e83d": [
+    {
+      "event": "Harvest",
+      "remainingShelfLifeDays": 18.6,
+      "remainingShelfLifePercentage": 100,
+      "color": "Green"
+    },
+    {
+      "event": "Received at DC",
+      "remainingShelfLifeDays": 10.7,
+      "remainingShelfLifePercentage": 69,
+      "color": "Orange"
+    }
+  ],
+  "2c5821af-d8f7-4509-a0ed-76673a47d0cd": [
+    {
+      "event": "Harvest",
+      "remainingShelfLifeDays": 17.5,
+      "remainingShelfLifePercentage": 98,
+      "color": "Green"
+    },
+    {
+      "event": "Received at Store",
+      "remainingShelfLifeDays": 2.0,
+      "remainingShelfLifePercentage": 12,
+      "color": "Red"
+    }
+  ]
+}

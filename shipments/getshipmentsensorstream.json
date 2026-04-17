@@ -1,0 +1,193 @@
+{
+  "sensors": [
+    {
+      "type": "Temperature",
+      "unit": "Celsius",
+      "slot": "SLOT_1",
+      "values": [
+        {
+          "uploadDate": "2025-06-27T13:26:20.445Z",
+          "readingDate": "2025-06-27T13:26:17Z",
+          "value": 44.183
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:25.756Z",
+          "readingDate": "2025-06-27T13:26:25Z",
+          "value": 41.792
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:31.557Z",
+          "readingDate": "2025-06-27T13:26:31Z",
+          "value": 45.021
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:37.208Z",
+          "readingDate": "2025-06-27T13:26:36Z",
+          "value": 40.173
+        }
+      ]
+    },
+    {
+      "type": "Temperature",
+      "unit": "Celsius",
+      "slot": "SLOT_2",
+      "values": [
+        {
+          "uploadDate": "2025-06-27T13:26:20.445Z",
+          "readingDate": "2025-06-27T13:26:17Z",
+          "value": 45.922
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:25.756Z",
+          "readingDate": "2025-06-27T13:26:25Z",
+          "value": 47.403
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:31.557Z",
+          "readingDate": "2025-06-27T13:26:31Z",
+          "value": 44.33
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:37.208Z",
+          "readingDate": "2025-06-27T13:26:36Z",
+          "value": 42.341
+        }
+      ]
+    },
+    {
+      "type": "Temperature",
+      "unit": "Celsius",
+      "slot": "SLOT_3",
+      "values": [
+        {
+          "uploadDate": "2025-06-27T13:26:20.445Z",
+          "readingDate": "2025-06-27T13:26:17Z",
+          "value": 45.648
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:25.756Z",
+          "readingDate": "2025-06-27T13:26:25Z",
+          "value": 41.01
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:31.557Z",
+          "readingDate": "2025-06-27T13:26:31Z",
+          "value": 47.015
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:37.208Z",
+          "readingDate": "2025-06-27T13:26:36Z",
+          "value": 42.537
+        }
+      ]
+    },
+    {
+      "type": "Humidity",
+      "unit": "Percent",
+      "slot": "SLOT_1",
+      "values": [
+        {
+          "uploadDate": "2025-06-27T13:26:20.445Z",
+          "readingDate": "2025-06-27T13:26:17Z",
+          "value": 89.969
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:25.756Z",
+          "readingDate": "2025-06-27T13:26:25Z",
+          "value": 37
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:31.557Z",
+          "readingDate": "2025-06-27T13:26:31Z",
+          "value": 79.871
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:37.208Z",
+          "readingDate": "2025-06-27T13:26:36Z",
+          "value": 37.02
+        }
+      ]
+    },
+    {
+      "type": "Humidity",
+      "unit": "Percent",
+      "slot": "SLOT_2",
+      "values": [
+        {
+          "uploadDate": "2025-06-27T13:26:20.445Z",
+          "readingDate": "2025-06-27T13:26:17Z",
+          "value": 75.608
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:25.756Z",
+          "readingDate": "2025-06-27T13:26:25Z",
+          "value": 57.491
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:31.557Z",
+          "readingDate": "2025-06-27T13:26:31Z",
+          "value": 41.232
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:37.208Z",
+          "readingDate": "2025-06-27T13:26:36Z",
+          "value": 86.636
+        }
+      ]
+    },
+    {
+      "type": "Light",
+      "unit": "Lux",
+      "slot": "SLOT_1",
+      "values": [
+        {
+          "uploadDate": "2025-06-27T13:26:20.445Z",
+          "readingDate": "2025-06-27T13:26:17Z",
+          "value": 43.902
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:25.756Z",
+          "readingDate": "2025-06-27T13:26:25Z",
+          "value": 45.755
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:31.557Z",
+          "readingDate": "2025-06-27T13:26:31Z",
+          "value": 55.662
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:37.208Z",
+          "readingDate": "2025-06-27T13:26:36Z",
+          "value": 38.626
+        }
+      ]
+    },
+    {
+      "type": "Vibration",
+      "unit": "G",
+      "slot": "SLOT_1",
+      "values": [
+        {
+          "uploadDate": "2025-06-27T13:26:20.445Z",
+          "readingDate": "2025-06-27T13:26:17Z",
+          "value": 1.734
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:25.756Z",
+          "readingDate": "2025-06-27T13:26:25Z",
+          "value": 0.884
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:31.557Z",
+          "readingDate": "2025-06-27T13:26:31Z",
+          "value": 1.757
+        },
+        {
+          "uploadDate": "2025-06-27T13:26:37.208Z",
+          "readingDate": "2025-06-27T13:26:36Z",
+          "value": 1.203
+        }
+      ]
+    }
+  ]
+}

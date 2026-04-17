@@ -1,0 +1,50 @@
+[
+  {
+    "eventTime": "2025-06-27T13:26:17Z",
+    "processingTime": "2025-06-27T13:26:20.445Z",
+    "batteryPercent": 41.096,
+    "temperature1": 44.183,
+    "temperature2": 45.922,
+    "humidity1": 89.969,
+    "light1": 43.902,
+    "co2_1": null,
+    "lat": 40.714211,
+    "lon": -74.005034
+  },
+  {
+    "eventTime": "2025-06-27T13:26:25Z",
+    "processingTime": "2025-06-27T13:26:25.756Z",
+    "batteryPercent": 80,
+    "temperature1": 41.792,
+    "temperature2": 47.403,
+    "humidity1": 37,
+    "light1": 45.755,
+    "co2_1": null,
+    "lat": 38.055513,
+    "lon": -85.348713
+  },
+  {
+    "eventTime": "2025-06-27T13:26:31Z",
+    "processingTime": "2025-06-27T13:26:31.557Z",
+    "batteryPercent": 80,
+    "temperature1": 45.021,
+    "temperature2": 44.33,
+    "humidity1": 79.871,
+    "light1": 55.662,
+    "co2_1": null,
+    "lat": 35.721111,
+    "lon": -91.186985
+  },
+  {
+    "eventTime": "2025-06-27T13:26:36Z",
+    "processingTime": "2025-06-27T13:26:37.208Z",
+    "batteryPercent": 80,
+    "temperature1": 40.173,
+    "temperature2": 42.341,
+    "humidity1": 37.02,
+    "light1": 38.626,
+    "co2_1": null,
+    "lat": 32.778192,
+    "lon": -96.797382
+  }
+]

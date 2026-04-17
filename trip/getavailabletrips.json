@@ -1,0 +1,10 @@
+[
+  {
+    "tripId": "123e4567-e89b-12d3-a456-426614174000",
+    "deviceSerial": "FL123",
+    "tripNumber": "TRIP123",
+    "accountId": "188ca647-d9bc-4412-939f-4f0998b5ccc5",
+    "accountName": "Test1",
+    "programName": "Shipment Sharing Program"
+  }
+]

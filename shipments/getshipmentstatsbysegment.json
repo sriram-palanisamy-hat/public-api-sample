@@ -1,0 +1,94 @@
+{
+  "stats": [
+    {
+      "Fresno Waypoint-Fresno Waypoint": [
+        {
+          "duration": "1 hour",
+          "light_1": {
+            "generalStatistics": {
+              "Minimum Reading": "228.0 Lux",
+              "Maximum Reading": "4530.0 Lux",
+              "Average Reading": "2371.9 Lux",
+              "Alarm Count": 0,
+              "First Alarm": null,
+              "Last Alarm": null
+            },
+            "timeAboveHigh": {
+              "Duration above High Threshold": "N/A"
+            },
+            "timeBelowLow": {
+              "Duration below Low Threshold": "N/A"
+            }
+          },
+          "humidity_1": {
+            "generalStatistics": {
+              "Minimum Reading": "0.7 %",
+              "Maximum Reading": "88.1 %",
+              "Average Reading": "56.4 %",
+              "Alarm Count": 0,
+              "First Alarm": null,
+              "Last Alarm": null
+            },
+            "timeAboveHigh": {
+              "Duration above High Threshold": "N/A"
+            },
+            "timeBelowLow": {
+              "Duration below Low Threshold": "N/A"
+            }
+          },
+          "temperature_1": {
+            "generalStatistics": {
+              "Minimum Reading": "-3.3 °C",
+              "Maximum Reading": "22.7 °C",
+              "Average Reading": "8.1 °C",
+              "Alarm Count": 12,
+              "First Alarm": "09/17/2025 20:05:00 (GMT+00:00) Africa/Abidjan",
+              "Last Alarm": "09/17/2025 21:05:00 (GMT+00:00) Africa/Abidjan",
+              "MKT": "12.2 °C"
+            },
+            "timeAboveHigh": {
+              "Duration above High Threshold": "N/A"
+            },
+            "timeBelowLow": {
+              "Duration below Low Threshold": "50 min"
+            }
+          },
+          "temperature_2": {
+            "generalStatistics": {
+              "Minimum Reading": "-3.1 °C",
+              "Maximum Reading": "23.0 °C",
+              "Average Reading": "9.0 °C",
+              "Alarm Count": 0,
+              "First Alarm": null,
+              "Last Alarm": null,
+              "MKT": "13.8 °C"
+            },
+            "timeAboveHigh": {
+              "Duration above High Threshold": "N/A"
+            },
+            "timeBelowLow": {
+              "Duration below Low Threshold": "N/A"
+            }
+          },
+          "temperature_3": {
+            "generalStatistics": {
+              "Minimum Reading": "",
+              "Maximum Reading": "",
+              "Average Reading": "",
+              "Alarm Count": 0,
+              "First Alarm": null,
+              "Last Alarm": null,
+              "MKT": ""
+            },
+            "timeAboveHigh": {
+              "Duration above High Threshold": "N/A"
+            },
+            "timeBelowLow": {
+              "Duration below Low Threshold": "N/A"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

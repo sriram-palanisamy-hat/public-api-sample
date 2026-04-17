@@ -1,0 +1,38 @@
+{
+  "locationId": "d290f1ee-6c54-4b01-90e6-d701748f0851",
+  "locationName": "Main Warehouse",
+  "locationType": "Receiver",
+  "accountId": "c56a4180-65aa-42ec-a945-5fd21dec0538",
+  "accountName": "DeltaTrak Inc.",
+  "address": "1234 Main St, Fremont, CA 94538",
+  "stateIsoCode": "CA",
+  "countryIsoCode": "US",
+  "geoJson": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            [
+              -122.4194,
+              37.7749
+            ]
+          ]
+        },
+        "properties": {
+          "additionalProperties": {
+            "name": "Main Warehouse",
+            "zone": "East",
+            "capacity": 1200
+          }
+        }
+      }
+    ]
+  },
+  "createdAt": "2025-06-23T14:35:00Z",
+  "createdBy": "admin@deltatrak.com",
+  "modifiedAt": "2025-06-24T09:15:00Z",
+  "modifiedBy": "manager@deltatrak.com"
+}

@@ -1,0 +1,17 @@
+{
+  "webhookId": "3f9bc697-f8df-4e14-8edb-dfded04645fd",
+  "accountId": "188ca647-d9bc-4412-939f-4f0998b5ccc5",
+  "webhookType": "ALERTS",
+  "callbackMethod": "POST",
+  "callbackUrl": "https://example.com/webhook",
+  "headers": [
+    {
+      "name": "Authorization",
+      "value": "Bearer 2345234523453245345345345345345"
+    }
+  ],
+  "retries": 3,
+  "active": true,
+  "tripNumbers": [],
+  "dataVisibility": "Trip"
+}

@@ -1,0 +1,36 @@
+{
+  "locationId": "672e2ac7-0e81-48a9-9a38-a0cd3a69bd3b",
+  "locationName": "TReceiver",
+  "locationType": "Receiver",
+  "accountId": "188ca647-d9bc-4412-939f-4f0998b5ccc5",
+  "accountName": "Receiver",
+  "address": "18112 E Springfield Ave, Spokane Valley, WA",
+  "stateIsoCode": "WA",
+  "countryIsoCode": "US",
+  "geoJson": {
+    "type": "FeatureCollection",
+    "features": [
+      {   
+        "type": "Feature",
+        "geometry": {
+        "type": "Point",
+        "coordinates": [
+         [-117.1611729, 47.6634507]
+        ]
+      },
+        "properties": {
+        "additionalProperties": {
+        "address": "18112 E Springfield Ave, Spokane Valley, WA",
+        "countryIsoCode": "US",
+        "mapType": "Circle",
+        "zoom": "15",
+        "stateIsoCode": "WA",
+        "radius": "2185"
+      }
+     }]
+   },
+   "createdAt": "2025-06-18T18:28:23.053205",
+   "createdBy": "user@domain.com",
+   "modifiedAt": "2025-08-22T16:54:16.508838",
+   "modifiedBy": "user@domain.com"
+}
