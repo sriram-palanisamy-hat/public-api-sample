@@ -1,0 +1,17 @@
+{
+  "data": [
+  {
+    "carrierId": "f7b3bd6f-0bb5-478b-8de9-3baeb570909f",
+    "accountId": "188ca647-d9bc-4412-939f-4f0998b5ccc5",
+    "accountName": "Receiver",
+    "carrierName": "Carrier Name",
+    "contactName": "Contact",
+    "contactEmail": "carrierContact@name.com",
+    "contactPhone": "+1-555-123-4567",
+    "address": "123 Main St, Suite 100, Anytown, ST 12345",
+    "createdAt": "2025-08-14T14:27:06.79205",
+    "createdBy": "user@domain.com",
+    "modifiedAt": "2025-08-18T07:21:11.36747",
+    "modifiedBy": "user@domain.com" 
+  }]
+}

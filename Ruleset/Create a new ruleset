@@ -1,0 +1,11 @@
+{
+   "rulesetId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+   "rulesetName": "Temperature Monitoring Ruleset",
+   "accountId": "c56a4180-65aa-42ec-a945-5fd21dec0538",
+   "accountName": "DeltaTrak Inc.",
+   "createdAt": "2025-10-24T21:36:39.405Z",
+   "createdBy": "admin@deltatrak.com",
+   "modifiedAt": "2025-10-24T21:36:39.405Z",
+   "modifiedBy": "jane.manager@deltatrak.com",
+   "rules": []
+}

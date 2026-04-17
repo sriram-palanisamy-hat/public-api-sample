@@ -1,0 +1,16 @@
+{
+  "data": [
+  {
+    "productId": "d494902f-cb17-4e23-aa41-9fab39db76a5",
+    "productName": "Bananas",
+    "accountId": "188ca647-d9bc-4412-939f-4f0998b5ccc5",
+    "accountName": "Receiver",
+    "ruleSetIds": [
+        "b60b2ede-d654-424d-a3c8-09100040c7e1"
+    ],
+    "createdAt": "2025-06-18T18:33:54.650374",
+    "createdBy": "sgadamsetty+padmin@deltatrak.com",
+    "modifiedAt": "2025-06-18T18:33:54.650374",
+    "modifiedBy": "sgadamsetty+padmin@deltatrak.com"
+  }]
+}

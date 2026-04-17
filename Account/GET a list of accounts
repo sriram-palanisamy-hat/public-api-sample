@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "accountId": "188ca647-d9bc-4412-939f-4f0998b5ccc5",
+      "accountName": "Receiver"
+    },
+    {
+      "accountId": "35fff28e-be17-47ed-b879-66d556812865",
+      "accountName": "QA-Flashtrak"
+    },
+    {
+      "accountId": "82c60577-d079-4cb8-9214-127fccce7063",
+      "accountName": "AU_3XE1LI"
+    },
+    {
+      "accountId": "42539b5a-d859-481b-be0c-5f5ee507dede",
+      "accountName": "Receiver Share (Test1 to Test2)-Dap2-Test2"
+    },
+    {
+      "accountId": "559c2177-f367-4619-89c4-d34f26c21d31",
+      "accountName": "Shipper to Receiver-Receiver-Shipper"
+    }
+  ],
+  "totalRecords": 5,
+  "page": 1,
+  "pageSize": 20
+}

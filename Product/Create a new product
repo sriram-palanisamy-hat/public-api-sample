@@ -1,0 +1,13 @@
+{
+  "productId": "ea67d701-d790-4312-8ac2-2186f68e18e0",
+  "productName": "Fresh Produce",
+  "accountId": "188ca647-d9bc-4412-939f-4f0998b5ccc5",
+  "accountName": "Receiver",
+  "ruleSetIds": [
+    "b60b2ede-d654-424d-a3c8-09100040c7e1"
+  ],
+  "createdAt": "2025-10-24T17:43:25.836107",
+  "createdBy": "user@domain.com",
+  "modifiedAt": "2025-10-24T17:43:25.836107",
+  "modifiedBy": "user@domain.com"
+}

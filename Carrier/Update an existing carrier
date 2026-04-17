@@ -1,0 +1,14 @@
+{
+  "carrierId": "9c7b52b3-1a06-41a5-b889-1c04cb612fde",
+  "accountId": "188ca647-d9bc-4412-939f-4f0998b5ccc5",
+  "accountName": "Receiver",
+  "carrierName": "Another Co Carrier",
+  "contactName": "Jason Doe",
+  "contactEmail": "Jason.doe@acmelogistics.com",
+  "contactPhone": "+1-555-123-4567",
+  "address": "123 Some St, Suite 101, Anytown, ST 12345",
+  "createdAt": "2025-10-23T23:37:43.6297",
+  "createdBy": "user@domain.com",
+  "modifiedAt": "2025-10-23T23:39:29.4302",
+  "modifiedBy": "user@domain.com"
+}

@@ -1,0 +1,14 @@
+{
+  "productId": "ea67d701-d790-4312-8ac2-2186f68e18e0",
+  "productName": "Frozen Produce",
+  "accountId": "188ca647-d9bc-4412-939f-4f0998b5ccc5",
+  "accountName": "Receiver",
+  "ruleSetIds": [
+    "bd576941-fab3-4441-bf87-e41731a48593",
+    "f522273f-34f8-4b8c-8786-401e4c9f6be5"
+  ],
+  "createdAt": "2025-10-24T17:43:25.836107",
+  "createdBy": "user@domain.com",
+  "modifiedAt": "2025-10-24T17:50:27.986788",
+  "modifiedBy": "user@domain.com"
+}
